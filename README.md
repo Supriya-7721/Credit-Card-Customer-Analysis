@@ -55,6 +55,6 @@ Performed the following tasks:
 - Monitor customers with very high credit limits for effective risk management.
 - Develop personalized offers based on customer segments.
 - # Dashboard Overview
-- ![Dahboard Overview](dashboard/dashboard_overview.png)
+- ![Dashboard Overview](dashboard_overview.png)
 - #Customer Behaviour & Analysis
-- ![Customer Behaviour Dashboard](dashboard/dashboard_customer_trends.png)
+- ![Customer Behaviour Dashboard](dashboard_customer_trends.png)
